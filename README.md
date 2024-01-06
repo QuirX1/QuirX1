@@ -1,4 +1,19 @@
+![225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9](https://github.com/QuirX1/QuirX1/assets/155851413/e82ea484-a686-468f-b36d-d05f24770895)
+
+
+
+
+
+
+
+
+
+
+
+
 <h1 align="center">Hi 👋, I'm Erdem Ala</h1>
+
+
 <h3 align="center">Türkiyede Ağ Sistemleri Ve Siber Güvenlik Öğrencisiyim.</h3>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
