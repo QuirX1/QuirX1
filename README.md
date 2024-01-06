@@ -33,3 +33,19 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=quirx1&show_icons=true&locale=en" alt="quirx1" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=quirx1&" alt="quirx1" /></p>
+
+
+
+
+
+
+
+
+
+
+
+
+![206730](https://github.com/QuirX1/QuirX1/assets/155851413/23e3a15d-5527-4579-a230-c2b453433a2c)
+
+
+
