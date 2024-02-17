@@ -12,7 +12,7 @@
 <h1 align="center">Hi 👋, I'm Erdem Ala</h1>
 
 
-<h3 align="center">Türkiyede Ağ Sistemleri Ve Siber Güvenlik Öğrencisiyim.</h3>
+
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
